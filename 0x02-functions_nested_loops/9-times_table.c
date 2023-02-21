@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
  * times_table - print a multiplication table of single-digit numbers
