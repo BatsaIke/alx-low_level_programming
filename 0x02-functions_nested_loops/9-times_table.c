@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * times_table - print a multiplication table of single-digit numbers
+ * time_teble - print a multiplication table of single-digit numbers
  *
  * Return: void
  */
